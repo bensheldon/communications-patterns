@@ -6,6 +6,20 @@ A pattern library of communications and emotional intelligence tactics. Inspired
 
 ### Caucusing / "Socializing"
 
+### "Hello" / "Goodbye"
+
+Via Rhys Newman and Luke Johnson's ["No Dickheads"](https://medium.com/@rhysys/no-dickheads-a-guide-to-building-happy-healthy-and-creative-teams-7e9b049fc57d#.uj22wpio2): 
+
+> I know it sounds a bit crap, but politeness dictates that when you walk into a room that you say “Hello” and when you leave say “Goodbye.” It’s not that complicated. But this common courtesy is as important and plays functional role in a studio.
+Because design work is naturally collaborative there needs to be some type of announcement that declares, “Here I am. I am going to contribute.” As someone who leads/listens to a team, I often use the way in which somebody says “Good morning” as a barometer of their mood. It tells me how they are feeling without me having to ask.
+>
+> Alternatively, it is important that we end the day with “Goodnight, I am leaving.” Practically speaking it is good to know when someone leaves because you don’t know…if they will return the next morning. Seriously though, “Goodnight” is something we tell our children, our domestic partners and our parents. Invoking a ‘goodnight’ upon departure subliminally colors the studio with a similar familial spirit.
+
+### Shake hands before a business trip
+
+Via Rhys Newman and Luke Johnson's ["No Dickheads"](https://medium.com/@rhysys/no-dickheads-a-guide-to-building-happy-healthy-and-creative-teams-7e9b049fc57d#.uj22wpio2): 
+
+> I also think it’s important to shake hands before business trips. I know this sounds weird, but it’s both a powerful and intimate gesture. People going on these trips often take work that represents the entire team; It’s an opportunity to look in one another’s eyes and say, “Godspeed and I hope it goes well.”
 
 ## Anti-patterns
 
