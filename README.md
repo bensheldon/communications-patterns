@@ -6,7 +6,7 @@ A pattern library of communications and emotional intelligence tactics. Inspired
 
 ### "What differentiates a good day from a bad day for you?"
 
-This is one of the management discovery questions from "The Phoenix Project" by Gene Kim, Kevin Behr and George Spafford. I like it because of the focus on personal experience. Managers often talk about "removing roadblocks", but rarely do they seem to ask what those roadblocks are in a specific tangible way; this question does that and probably shouldn be repeated.
+This is one of the management discovery questions from "The Phoenix Project" by Gene Kim, Kevin Behr and George Spafford. I like it because of the focus on personal experience. Managers often talk about "removing roadblocks", but rarely do they seem to ask what those roadblocks are in a specific tangible way; this question does that and probably should be repeated on a regular (monthly?) cadence.
 
 ### Caucusing / "Socializing"
 
